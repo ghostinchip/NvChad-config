@@ -5,7 +5,8 @@
 local M = {}
 
 M.ui = {
-  theme = "ashes",
+  --  theme = "ashes", -- "ashes"
+  theme = "kanagawa",
   transparency = true,
   statusline = {
     theme = "vscode_colored",
